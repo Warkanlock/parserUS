@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Warkanlock/TaxCodeParser/blob/master/logo.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Warkanlock/parserUS/master/image/logo.png?token=ADFY5IHGZ3CTZZRD7FVW7PC46LCPI"></p>
 
 <p align="center"> <b>A brief generic parser for the entire US Tax Code made by Ignacio Brasca.</b> </p>
 
