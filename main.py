@@ -4,30 +4,6 @@ from src import parseTax
 import sys
 import argparse
 
-# get the document using the class
-
-"""
-GET SPECIFIC PART OF THE US CODE
-"""
-# response, URI = getFile.GetFiles(
-#    title="26", subtitle="A", chap="1", subchap="B", part="VI", section="199A"
-# ).getFile()
-
-"""
-GET PARTIAL PART OF THE US CODE
-"""
-# response, URI = getFile.GetFiles(title="26", subtitle="A", chap="1", subchap="B", part="VI"
-#                                 ).getFile()
-
-"""
-GET ENTIRE PART OF THE US CODE
-"""
-# response, URI = getFile.GetFiles(title="26", subtitle="A").getFile()
-
-"""
-Using the code
-"""
-
 
 def main():
     response, URI = getFile.GetFiles(

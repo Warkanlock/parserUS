@@ -29,7 +29,7 @@ python main.py -title 26 -subtitle A -chap 1 -subchap B -part VI
 You need to run:
 
 ```
-pip install -r requirements.txt
+pip install -r requirements/requirements.txt
 ```
 
 To install all the requirements

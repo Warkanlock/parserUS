@@ -62,7 +62,7 @@ class ParserTaxCode(object):
                                          ":" + a.text, root_node)
                     # print(root_node)
                     # print(a.text)
-                    txt = open("data/" + a.text + ".txt", "w")
+                    txt = open("data/" + a.text + ".txt", "w+")
                     txt.write(a.text + "\n")
                 elif a.name == "h4":
                     if a["class"][0] == "subsection-head":
@@ -153,7 +153,7 @@ class ParserTaxCode(object):
                 name = root_node.name
                 pos = name.find("§")
                 name_clean = name[pos:]
-                with open("data/" + name_clean + "-tree.json", "w") as fp:
+                with open("data/" + name_clean + "-tree.json", "w+") as fp:
                     exporter.write(root_node, fp)
         else:
             raise ValueError("NO TAG elements in the file")
