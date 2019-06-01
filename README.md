@@ -7,7 +7,7 @@
 Go into root folder and open a terminal and throw this command:
 
 ```
-    python main.py -h
+python main.py -h
 ```
 
 As you can see, you can use any parameter that you want, you can skip one or use all of it.
