@@ -1,13 +1,13 @@
-![ParserUS Logo](/logo.png)
+<p align="center"><img src="https://github.com/Warkanlock/TaxCodeParser/blob/master/logo.png"></p>
 
-A brief generic parser for the entire US Tax Code made by Ignacio Brasca.
+<p align="center"> <b>A brief generic parser for the entire US Tax Code made by Ignacio Brasca.</b> </p>
 
 ## Usage
 
 Go into root folder and open a terminal and throw this command:
 
 ```
-    python main.py -h
+python main.py -h
 ```
 
 As you can see, you can use any parameter that you want, you can skip one or use all of it.
