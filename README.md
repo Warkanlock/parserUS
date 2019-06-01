@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Warkanlock/TaxCodeParser/blob/master/logo.png"></p>
 
-A brief generic parser for the entire US Tax Code made by Ignacio Brasca.
+<p align="center"> <b>A brief generic parser for the entire US Tax Code made by Ignacio Brasca.</b> </p>
 
 ## Usage
 
