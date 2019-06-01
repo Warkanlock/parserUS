@@ -1,4 +1,4 @@
-# TaxCodeParser
+![ParserUS Logo](/logo.png)
 
 A brief generic parser for the entire US Tax Code made by Ignacio Brasca.
 
