@@ -18,6 +18,8 @@ As you can see, you can use any parameter that you want, you can skip one or use
 python main.py -title 26 -subtitle A -chap 1 -subchap B -part VI
 ```
 
+Once you run the script, you get all the information into data folder
+
 ## Tools used
 
 1. **AnyTree** (https://github.com/c0fec0de/anytree)
