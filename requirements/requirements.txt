@@ -11,7 +11,7 @@ Click==7.0
 html5lib==1.0.1
 idna==2.8
 pathtools==0.1.2
-PyYAML==5.1
+PyYAML==5.4
 reload==0.9
 requests==2.22.0
 six==1.12.0
